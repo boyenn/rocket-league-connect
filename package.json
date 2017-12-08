@@ -1,0 +1,15 @@
+{
+  "name": "rocket-league-connect",
+  "version": "1.0.0",
+  "description": "Stat bot for Rocket League Connect",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "rls-api": "^1.1.0"
+  }
+}
