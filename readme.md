@@ -1,4 +1,4 @@
-#Installation
+# Installation
 
 Make sure you have git, nodejs and npm installed on your machine.
 
@@ -23,7 +23,7 @@ In Tokens, create 2 empty files without a filetype with names discordtoken and r
 * Go to developers.rocketleaguestats.com and request a token.
 * Copy the token into the file rlstoken
 
-#Running 
+# Running 
 
 ```bash
 node index.js
